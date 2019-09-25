@@ -58,6 +58,10 @@
    color: rgba(255, 255, 255, 1);
  }
 
+ div.content {
+   height:800px;
+ }
+
 
  /*********************************************
  Home page content sections
