@@ -8,12 +8,12 @@
 
 
 #banner .button.redbtn {
-  background-color: rgba(188, 46, 26, 1);
+  background-color: rgba(63, 8, 16, 0);
   box-shadow: none;
 }
 
 #banner .button.redbtn:hover {
-  background-color: rgba(188, 46, 26, .8);
+  background-color: rgba(63, 8, 16, 0);
 }
 
 
