@@ -22,7 +22,7 @@
  Write your css customizations below
  *********************************************/
  a {
-   color: rgba(62, 161, 218, 1);
+   color: rgba(63, 8, 16, 0);
  }
 
 
@@ -55,7 +55,7 @@
  }
 
  header p {
-   color: rgba(255, 255, 255, 1);
+   color: rgba(63, 8, 16, 0);
  }
 
  div.content {
