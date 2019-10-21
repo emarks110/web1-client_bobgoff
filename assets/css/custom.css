@@ -30,9 +30,9 @@
   Main home banner customizations
   *********************************************/
  body{
-   font-family: montserrat, sans-serif;
+   font-family: benton Sans, Sans;
    font-weight: 400;
-   font-style: normal;
+   font-style: book;
  }
 
   #banner {
@@ -70,7 +70,7 @@
  /* This is the background color for the inverted content sections */
  .post.style1.invert .content{
    /* background: rgba(62, 161, 218, 1); */
-   background: rgba(0, 63, 98, 1);
+   background: rgba(63, 8, 16, 0);
  }
 
  /* This is the text color for "post style 1" content sections */
