@@ -39,19 +39,19 @@
     /* Added a background image to the home page banner instead of using a solid color. */
     background-image: url(../../images/bobbw.jpg);
     background-size: cover;
-    color: rgba(255, 255, 255, 0.75);
+    color: rgba(63, 8, 16, 0);
     /* text-shadow: 1px 1px 15px #333; */
     text-align: center;
     cursor: default;
     padding: 4em 4em 9em 4em;
 
  #banner .button.redbtn {
-   background-color: rgba(188, 46, 26, 1);
+   background-color: rgba(63, 8, 16, 0);
    box-shadow: none;
  }
 
  #banner .button.redbtn:hover {
-   background-color: rgba(188, 46, 26, .8);
+   background-color: rgba(63, 8, 16, 0);
  }
 
  header p {
@@ -76,9 +76,9 @@
  /* This is the text color for "post style 1" content sections */
  .post.style1 a{
      /* color: rgba(62, 161, 218, 1); */
-     color: rgba(0, 63, 98, 1);
+     color: rgba(63, 8, 16, 0);
  }
 
  /* This is the text color for "post style 1" buttons */
  .post.style1 .button.alt {
-     color: rgba(0, 63, 98, 1) !important;}
+     color: rgba(63, 8, 16, 0) !important;}
