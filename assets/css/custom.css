@@ -37,10 +37,11 @@
 
   #banner {
     /* Added a background image to the home page banner instead of using a solid color. */
-    background-image: url(../../images/bobbw.jpg) 0 45%;
+    background: url(../../images/bobbw.jpg) 0 40% no-repeat;
     background-size: cover;
-    color: .post.style1 a {
     color: #f26c4f;
+    display: block;
+    height: 60%;
     /* text-shadow: 1px 1px 15px #333; */
     text-align: center;
     cursor: default;
@@ -68,14 +69,35 @@
  Home page content sections
   *********************************************/
 
- /* This is the background color for the inverted content sections */
- .post.style1.invert .content {
-    background: #f26c4f;}
+
 
  /* This is the text color for "post style 1" content sections */
+
+ .post.style1 input, .post.style1 select, .post.style1 textarea {
+   color: #f26c4f;
+ }
+
  .post.style1 a {
-     color: #f26c4f;}
+   color: #f26c4f;
+ }
+
+ .post.style1 strong, .post.style1 b {
+   color: #f26c4f;
+ }
+
+ .post.style1 h1, .post.style1 h2, .post.style1 h3, .post.style1 h4, .post.style1 h5, .post.style1 h6 {
+   color: #f26c4f;
+ }
+
+ /* This is the background color for the inverted content sections */
+ .post.style1.invert .content,
+ .post.style1.invert {
+    background: #f26c4f;
+  }
 
  /* This is the text color for "post style 1" buttons */
  .post.style1 .button.alt {
-     color: #f26c4f; !important;}
+    background-color: transparent;
+    box-shadow: inset 0 0 0 2px rgba(144, 144, 144, 0.25);
+    color: #f26c4f !important;
+}
