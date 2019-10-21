@@ -37,7 +37,7 @@
 
   #banner {
     /* Added a background image to the home page banner instead of using a solid color. */
-    background-image: url(../../images/bobbw.jpg);
+    background-image: url(../../images/bobbw.jpg) 0 50%;
     background-size: cover;
     color: rgba(63, 8, 16, 0);
     /* text-shadow: 1px 1px 15px #333; */
