@@ -68,9 +68,8 @@
   *********************************************/
 
  /* This is the background color for the inverted content sections */
- .post.style1.invert .content{
-   /* background: rgba(62, 161, 218, 1); */
-   background: rgba(63, 8, 16, 0);
+ .post.style1.invert .content {
+     background: #f26c4f;
  }
 
  /* This is the text color for "post style 1" content sections */
