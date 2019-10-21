@@ -74,8 +74,7 @@
 
  /* This is the text color for "post style 1" content sections */
  .post.style1 a{
-     /* color: rgba(62, 161, 218, 1); */
-     color: rgba(63, 8, 16, 0);
+   color: #f26c4f;
  }
 
  /* This is the text color for "post style 1" buttons */
