@@ -8,12 +8,12 @@
 
 
 #banner .button.redbtn {
-  background-color: rgba(63, 8, 16, 0);
+  background-color: #f26c4f;
   box-shadow: none;
 }
 
 #banner .button.redbtn:hover {
-  background-color: rgba(63, 8, 16, 0);
+  background-color: #f26c4f;
 }
 
 
@@ -22,7 +22,7 @@
  Write your css customizations below
  *********************************************/
  a {
-   color: rgba(63, 8, 16, 0);
+   color: #f26c4f;
  }
 
 
