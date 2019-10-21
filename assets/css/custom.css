@@ -39,23 +39,24 @@
     /* Added a background image to the home page banner instead of using a solid color. */
     background-image: url(../../images/bobbw.jpg) 0 45%;
     background-size: cover;
-    color: rgba(63, 8, 16, 0);
+    color: .post.style1 a {
+    color: #f26c4f;
     /* text-shadow: 1px 1px 15px #333; */
     text-align: center;
     cursor: default;
     padding: 4em 4em 9em 4em;}
 
  #banner .button.redbtn {
-   background-color: rgba(63, 8, 16, 0);
+   background-color: #f26c4f;
    box-shadow: none;
  }
 
  #banner .button.redbtn:hover {
-   background-color: rgba(63, 8, 16, 0);
+   background-color: #f26c4f;
  }
 
  header p {
-   color: rgba(63, 8, 16, 0);
+   color: #f26c4f;
  }
 
  div.content {
@@ -70,11 +71,11 @@
  /* This is the background color for the inverted content sections */
  .post.style1.invert .content {
     background: #f26c4f;}
-    
+
  /* This is the text color for "post style 1" content sections */
  .post.style1 a {
-     color: #1abc9c;}
+     color: #f26c4f;}
 
  /* This is the text color for "post style 1" buttons */
  .post.style1 .button.alt {
-     color: rgba(63, 8, 16, 0) !important;}
+     color: #f26c4f; !important;}
