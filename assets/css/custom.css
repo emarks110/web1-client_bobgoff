@@ -30,18 +30,18 @@
   Main home banner customizations
   *********************************************/
  body{
-   font-family: , Sans-serif;
+   font-family: benton-sans, sans-serif;
    font-weight: 400;
-   font-style: book;
+   font-style: normal;
  }
 
   #banner {
     /* Added a background image to the home page banner instead of using a solid color. */
-    background: url(../../images/bobbw.jpg) 0 40% no-repeat;
+    background: url(../../images/bannerimage.jpg) 0 35% no-repeat;
     background-size: cover;
     color: #f26c4f;
     display: block;
-    height: 60%;
+    height: 100%;
     /* text-shadow: 1px 1px 15px #333; */
     text-align: center;
     cursor: default;
