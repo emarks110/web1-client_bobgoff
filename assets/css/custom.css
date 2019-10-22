@@ -37,7 +37,7 @@
 
   #banner {
     /* Added a background image to the home page banner instead of using a solid color. */
-    background: url(../../images/bannerimage.jpg) 0 35% no-repeat;
+    background: url(../../images/bannerimage.jpg) 0 58% no-repeat;
     background-size: cover;
     color: #f26c4f;
     display: block;
@@ -57,7 +57,7 @@
  }
 
  header p {
-   color: #f26c4f;
+   color: rgba(0, 0, 0,.20);
  }
 
  div.content {
